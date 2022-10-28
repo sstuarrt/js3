@@ -8,7 +8,7 @@ function show(products){
     console.log(products);
 }
 
-var products = ['Pear', 'Apple', 'Milk', 'Bread', 'Cucumber', 'Banana'];
+let products = ['Pear', 'Apple', 'Milk', 'Bread', 'Cucumber', 'Banana'];
 
 const indexProductEnd = products.length - 1;
 
@@ -18,7 +18,7 @@ devide();
 
 //2
 
-var styles = ['Jazz', 'Blues'];
+let styles = ['Jazz', 'Blues'];
 
 const rock = 'Rock-n-Roll';
 
